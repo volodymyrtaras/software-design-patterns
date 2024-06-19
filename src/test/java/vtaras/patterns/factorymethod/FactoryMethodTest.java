@@ -2,12 +2,12 @@ package vtaras.patterns.factorymethod;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import vtaras.patterns.factorymethod.logistics.Logistics;
-import vtaras.patterns.factorymethod.logistics.RoadLogistics;
-import vtaras.patterns.factorymethod.logistics.SeaLogistics;
-import vtaras.patterns.factorymethod.transport.Ship;
-import vtaras.patterns.factorymethod.transport.Transport;
-import vtaras.patterns.factorymethod.transport.Truck;
+import vtaras.patterns.creational.factorymethod.logistics.Logistics;
+import vtaras.patterns.creational.factorymethod.logistics.RoadLogistics;
+import vtaras.patterns.creational.factorymethod.logistics.SeaLogistics;
+import vtaras.patterns.creational.factorymethod.transport.Ship;
+import vtaras.patterns.creational.factorymethod.transport.Transport;
+import vtaras.patterns.creational.factorymethod.transport.Truck;
 
 class FactoryMethodTest {
 

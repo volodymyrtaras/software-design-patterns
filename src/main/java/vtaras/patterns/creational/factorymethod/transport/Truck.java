@@ -1,4 +1,4 @@
-package vtaras.patterns.factorymethod.transport;
+package vtaras.patterns.creational.factorymethod.transport;
 
 public class Truck implements Transport {
 

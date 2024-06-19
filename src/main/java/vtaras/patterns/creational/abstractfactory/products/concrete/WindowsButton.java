@@ -1,6 +1,6 @@
-package vtaras.patterns.abstractfactory.products.concrete;
+package vtaras.patterns.creational.abstractfactory.products.concrete;
 
-import vtaras.patterns.abstractfactory.products.Button;
+import vtaras.patterns.creational.abstractfactory.products.Button;
 
 public class WindowsButton implements Button {
 

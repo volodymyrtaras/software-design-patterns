@@ -1,7 +1,7 @@
-package vtaras.patterns.abstractfactory.factory;
+package vtaras.patterns.creational.abstractfactory.factory;
 
-import vtaras.patterns.abstractfactory.products.Button;
-import vtaras.patterns.abstractfactory.products.Checkbox;
+import vtaras.patterns.creational.abstractfactory.products.Button;
+import vtaras.patterns.creational.abstractfactory.products.Checkbox;
 
 /*
  * The Abstract Factory pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes.

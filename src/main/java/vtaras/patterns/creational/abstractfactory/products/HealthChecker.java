@@ -1,4 +1,4 @@
-package vtaras.patterns.abstractfactory.products;
+package vtaras.patterns.creational.abstractfactory.products;
 
 public interface HealthChecker {
 

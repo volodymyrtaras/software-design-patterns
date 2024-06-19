@@ -1,6 +1,6 @@
-package vtaras.patterns.factorymethod.logistics;
+package vtaras.patterns.creational.factorymethod.logistics;
 
-import vtaras.patterns.factorymethod.transport.Transport;
+import vtaras.patterns.creational.factorymethod.transport.Transport;
 
 public abstract class Logistics {
 

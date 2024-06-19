@@ -1,6 +1,6 @@
-package vtaras.patterns.abstractfactory.products.concrete;
+package vtaras.patterns.creational.abstractfactory.products.concrete;
 
-import vtaras.patterns.abstractfactory.products.Checkbox;
+import vtaras.patterns.creational.abstractfactory.products.Checkbox;
 
 public class MacCheckbox implements Checkbox {
 

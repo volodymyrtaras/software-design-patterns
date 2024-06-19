@@ -2,15 +2,15 @@ package vtaras.patterns.abstractfactory;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import vtaras.patterns.abstractfactory.factory.AbstractFactory;
-import vtaras.patterns.abstractfactory.factory.concrete.MacFactory;
-import vtaras.patterns.abstractfactory.factory.concrete.WindowsFactory;
-import vtaras.patterns.abstractfactory.products.Button;
-import vtaras.patterns.abstractfactory.products.Checkbox;
-import vtaras.patterns.abstractfactory.products.concrete.MacButton;
-import vtaras.patterns.abstractfactory.products.concrete.MacCheckbox;
-import vtaras.patterns.abstractfactory.products.concrete.WindowsButton;
-import vtaras.patterns.abstractfactory.products.concrete.WindowsCheckbox;
+import vtaras.patterns.creational.abstractfactory.factory.AbstractFactory;
+import vtaras.patterns.creational.abstractfactory.factory.concrete.MacFactory;
+import vtaras.patterns.creational.abstractfactory.factory.concrete.WindowsFactory;
+import vtaras.patterns.creational.abstractfactory.products.Button;
+import vtaras.patterns.creational.abstractfactory.products.Checkbox;
+import vtaras.patterns.creational.abstractfactory.products.concrete.MacButton;
+import vtaras.patterns.creational.abstractfactory.products.concrete.MacCheckbox;
+import vtaras.patterns.creational.abstractfactory.products.concrete.WindowsButton;
+import vtaras.patterns.creational.abstractfactory.products.concrete.WindowsCheckbox;
 
 class AbstractFactoryTest {
 
