@@ -1,4 +1,4 @@
-package vtaras.patterns.factorymethod;
+package vtaras.patterns.creational.factorymethod;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

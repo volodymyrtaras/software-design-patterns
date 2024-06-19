@@ -1,4 +1,4 @@
-package vtaras.patterns.abstractfactory;
+package vtaras.patterns.creational.abstractfactory;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

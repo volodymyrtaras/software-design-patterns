@@ -1,8 +1,7 @@
-package vtaras.patterns.sigleton;
+package vtaras.patterns.creational.sigleton;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import vtaras.patterns.creational.sigleton.Singleton;
 
 class SingletonTest {
 

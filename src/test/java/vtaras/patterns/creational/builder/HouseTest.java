@@ -1,8 +1,7 @@
-package vtaras.patterns.builder;
+package vtaras.patterns.creational.builder;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import vtaras.patterns.creational.builder.House;
 
 class HouseTest {
 
