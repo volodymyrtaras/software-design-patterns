@@ -1,5 +1,12 @@
 package vtaras.patterns.structural.bridge;
 
+/*
+ * The Bridge pattern is a structural design pattern that decouples an abstraction from its implementation, allowing them to vary independently
+ *
+ * It achieves this by defining an interface for the abstraction and another interface for the implementation, with concrete implementations for both
+ *
+ * This separation enables flexible and scalable designs, making it easier to extend and maintain the codebase
+ */
 public class Circle extends Shape {
 
     private final int x;
