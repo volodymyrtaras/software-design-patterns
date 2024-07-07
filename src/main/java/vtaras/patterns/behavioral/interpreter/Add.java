@@ -1,0 +1,16 @@
+package vtaras.patterns.behavioral.interpreter;
+
+public class Add implements Expression {
+
+    private final Expression leftExpression;
+    private final Expression rightExpression;
+
+    public Add(Expression leftExpression, Expression rightExpression) {
+        this.leftExpression = leftExpression;
+        this.rightExpression = rightExpression;
+    }
+
+    public int interpret() {
+        return leftExpression.interpret() + rightExpression.interpret();
+    }
+}
